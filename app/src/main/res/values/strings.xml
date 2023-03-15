@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jitsi_Implementation</string>
+    <string name="join">Join</string>
+    <string name="group_id">Group Id</string>
+    <string name="audio_calling">Audio Calling</string>
+    <string name="enter_a_room_name">Enter a Room Name</string>
+</resources>
